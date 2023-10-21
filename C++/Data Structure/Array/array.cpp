@@ -3,7 +3,7 @@ using namespace std;
 
 int foo [5] = {10, 8, 6, 4, 2};
 
-void sum() {
+void summation() {
     // it print sum of all elements
     int i, result = 0;
     
@@ -25,7 +25,7 @@ void updation() {
 
 }
 int main() {
-    sum();
+    summation();
     updation();
     return 0;
 };
